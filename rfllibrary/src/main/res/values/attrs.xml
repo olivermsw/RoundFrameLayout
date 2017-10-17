@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundFrameLayout">
+        <attr name="border_radius" format="dimension" />
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="border_radius_top_left" format="dimension" />
+        <attr name="border_radius_top_right" format="dimension" />
+        <attr name="border_radius_bottom_left" format="dimension" />
+        <attr name="border_radius_bottom_right" format="dimension" />
+        <attr name="round_as_circle" format="boolean" />
+        <attr name="shadow_radius" format="dimension" />
+        <attr name="shadow_dx" format="dimension" />
+        <attr name="shadow_dy" format="dimension" />
+        <attr name="shadow_color" format="color" />
+    </declare-styleable>
+</resources>
